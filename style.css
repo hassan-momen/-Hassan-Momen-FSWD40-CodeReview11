@@ -1,0 +1,12 @@
+.demo {
+	background-image: url("https://images.pexels.com/photos/164634/pexels-photo-164634.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+	height: 600px;
+	color: white;
+	padding-top: 150px;
+}
+
+.jumbotron {
+	background: url("http://www.innomag.no/wp-content/uploads/road-220058_960_720.jpg")50% 50% no-repeat;
+	background-size: cover;
+	height: 500px;
+}
